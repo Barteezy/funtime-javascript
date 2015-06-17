@@ -1,4 +1,5 @@
-// Yesterday's warmup, but in reverse. Take a nested object and make an array of arrays.
+/* Write a function that takes nested objects and creates a multi-dimensional array.
+ *
 
 var dogs = { 'German Shepherd': { size: '90 lbs.', 'bred for': 'Work' },
   'Pointer': { size: '40 lbs.', 'bred for': 'Hunting' },
@@ -13,3 +14,5 @@ var dogsArray = function(obj){
 }
 
 dogsArray(dogs);
+
+*/
