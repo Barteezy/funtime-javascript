@@ -6,3 +6,13 @@
  * add(4,9);
  * // => 13
 */
+
+// add your code here
+
+var add = function(){
+
+}
+
+module.exports = {
+  add: add
+}

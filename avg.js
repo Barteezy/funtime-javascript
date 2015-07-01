@@ -4,7 +4,15 @@
  *
  * Example:
  *
- * getAverage([1,2,3]);
+ * avg([1,2,3]);
  * // => 2
  *
  */
+
+var avg = function(){
+
+}
+
+module.exports = {
+  avg: avg
+}
